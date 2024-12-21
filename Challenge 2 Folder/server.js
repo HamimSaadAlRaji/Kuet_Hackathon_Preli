@@ -3,8 +3,8 @@ const mongoose = require('mongoose');
 const bodyParser = require('body-parser');
 require('dotenv').config();
 
-const ingredientRoutes = require('./routes/ingredients'); // Import routes
-
+const ingredientRoutes = require('./routes/ingredients'); // Import routes 
+const recipeRoutes = require('./routes/recipes');   
 const app = express();
 
 // Middleware
@@ -18,8 +18,8 @@ mongoose.connect(process.env.MONGO_URI, {
   .catch(err => console.error('MongoDB connection error:', err));
 
 // Use Routes
-app.use('/ingredients', ingredientRoutes);
-
+app.use('/ingredients', ingredientRoutes); 
+app.use('/recipes', recipeRoutes);
 // Start the server
 const PORT = process.env.PORT || 3000;
 app.listen(PORT, () => {

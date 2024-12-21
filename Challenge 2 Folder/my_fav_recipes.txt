@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1734794463241,
+    "name": "Vegetable Stir-Fry",
+    "ingredients": [
+      {
+        "name": "broccoli",
+        "amount": "1 cup (chopped)"
+      },
+      {
+        "name": "carrot",
+        "amount": "1 cup (sliced)"
+      },
+      {
+        "name": "bell pepper",
+        "amount": "1 cup (sliced)"
+      },
+      {
+        "name": "soy sauce",
+        "amount": "2 tablespoons"
+      },
+      {
+        "name": "ginger",
+        "amount": "1 teaspoon (grated)"
+      },
+      {
+        "name": "garlic",
+        "amount": "2 cloves (minced)"
+      }
+    ],
+    "taste": "Savory",
+    "cuisine": "Asian",
+    "preparation_time": "20 minutes",
+    "steps": [
+      "Heat oil in a wok.",
+      "Add ginger and garlic, stir-fry for 1 minute.",
+      "Add vegetables and stir-fry for 5-7 minutes.",
+      "Add soy sauce and toss to coat."
+    ],
+    "reviews": "Healthy and quick meal."
+  },
+  {
+    "id": 1734794486125,
+    "name": "Vegetable Stir",
+    "ingredients": [
+      {
+        "name": "broccoli",
+        "amount": "1 cup (chopped)"
+      },
+      {
+        "name": "carrot",
+        "amount": "1 cup (sliced)"
+      },
+      {
+        "name": "bell pepper",
+        "amount": "1 cup (sliced)"
+      },
+      {
+        "name": "soy sauce",
+        "amount": "2 tablespoons"
+      },
+      {
+        "name": "ginger",
+        "amount": "1 teaspoon (grated)"
+      },
+      {
+        "name": "garlic",
+        "amount": "2 cloves (minced)"
+      }
+    ],
+    "taste": "Savory",
+    "cuisine": "Asian",
+    "preparation_time": "20 minutes",
+    "steps": [
+      "Heat oil in a wok.",
+      "Add ginger and garlic, stir-fry for 1 minute.",
+      "Add vegetables and stir-fry for 5-7 minutes.",
+      "Add soy sauce and toss to coat."
+    ],
+    "reviews": "Healthy and quick meal."
+  }
+]
