@@ -49,8 +49,9 @@ my_fav_recipes.txt
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/HamimSaadAlRaji/Kuet_Hackathon_Preli.git
-   cd recipe-management-backend
+   git clone -b Challenge2 https://github.com/HamimSaadAlRaji/Kuet_Hackathon_Preli.git
+   cd Challenge 2 Folder
+
    ```
 
 2. Install dependencies:
