@@ -2,6 +2,11 @@
 
 This project is a backend system for managing ingredients and recipes. It includes features for adding, updating, and retrieving recipes and ingredients, integrating MongoDB for storage, and supports interaction through RESTful APIs. The project is designed to store recipes in JSON format for efficient retrieval and chatbot interaction.
 
+## Note on Branches
+
+- **Branch `Challenge1`**: Contains the Jupyter Notebook for Challenge 1.  
+- **Branch `Challenge2`**: Contains the implementation for Challenge 2.
+
 ---
 
 ## Project Structure
